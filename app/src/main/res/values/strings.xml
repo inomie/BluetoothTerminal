@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BluetoothTerminal</string>
+    <string name="connect">Connect</string>
+    <string name="ReceivedMessage">ReceivedMessage</string>
+    <string name="send">Send</string>
+</resources>
